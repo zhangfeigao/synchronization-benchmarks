@@ -4,8 +4,8 @@ language: c
 compiler:
   - gcc
 
-#runtime:
-#  nodePool: shippable_shared_aarch64
+runtime:
+  nodePool: shippable_shared_aarch64
 
 # use this to control what branches get built.
 branches:
